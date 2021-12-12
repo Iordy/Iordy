@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iordy
 - 👀 I’m interested in blockchain techonologies
-- 🌱 I’m currently learning javasscript for web development
+- 🌱 I’m currently learning javascript for web development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: andrei.iordache2017@gmail.com
 
